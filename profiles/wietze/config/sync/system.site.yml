@@ -1,0 +1,12 @@
+uuid: daa880f0-25af-4102-b888-f74bb8e3f436
+name: 'wietze'
+mail: 'info+wietze@vdmi.nl'
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en

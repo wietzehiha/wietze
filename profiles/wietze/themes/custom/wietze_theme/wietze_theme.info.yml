@@ -1,0 +1,15 @@
+name: 'wietze Theme'
+type: theme
+description: 'Theme for wietze'
+package: Other
+core: 8.x
+libraries:
+  - wietze_theme/global-styling
+  - wietze_theme/custom
+regions:
+  header: Header
+  featured: Featured
+  content: Content
+  sidebar_first: First sidebar
+  sidebar_second: Second sidebar
+  footer: Footer
